@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://dsc.bio/osu">
+<a href="dsc.bio/ipepoi">
   <img src="https://lanyard-profile-readme.vercel.app/api/234276857535528960" />
 </a>
 
