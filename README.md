@@ -1,16 +1,49 @@
-### Hi there 👋
+## Hello. 
 
-<!--
-**ipepoi/ipepoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="https://dsc.bio/osu">
+  <img src="https://lanyard-profile-readme.vercel.app/api/234276857535528960" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<hr />
+
+<p align="center">
+
+<kbd>
+  <a href="https://izumi.my.id">
+    homepage
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://discord.gg/nekopoi">
+    discord server
+  </a>
+</kbd>
+
+</p>
+
+<hr />
+
+<p align="center">
+
+<a href="https://github-profile-summary-cards.vercel.app">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeepSOBP&theme=solarized_dark">
+</a>
+
+<a href="https://github.com/Platane/snk">
+  <img src="https://cdn.statically.io/gh/KSPActions/README/main/snk.svg" />
+</a>
+
+</p>
+
+<p align="right">
+
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeepSOBP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
+</a>
+
+</p>
